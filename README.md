@@ -33,7 +33,7 @@
 * **直接下載**：點擊 GitHub 頁面右上角綠色按鈕 `Code` ➡️ 選擇 **`Download ZIP`**，解壓縮到電腦（如桌面或磁碟機）。
 * 或使用 Git 複製：
   ```bash
-  git clone https://github.com/你的帳號/你的Repository名稱.git
+  git clone https://github.com/Connielll/repair-management-system.git
   ```
 
 ---
